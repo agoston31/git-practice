@@ -239,6 +239,10 @@ A következő feladatod, hogy a `bevásárlólista.md`-be is írd bele a juhtúr
 Ezt is mentsd és commitold, így mindkét helyre bekerült az új alapanyag.
 
 ```
+
+A következő feladatod, hogy a `bevásárlólista.md`-be is írd bele a juhtúrót.
+Ezt is mentsd és commitold, így mindkét helyre bekerült az új alapanyag.
+
 Ha végeztél, commitolj.
 
 A következő feladatod, hogy a `bevásárlólista.md`-be is írd bele a <titkos alapanyag>ot
