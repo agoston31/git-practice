@@ -13,3 +13,4 @@ Ezek a dolgok amiket venni kellene.
 - sajt
 - ketchup
 - majonéz
+- juhtúró
